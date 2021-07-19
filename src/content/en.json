@@ -1,9 +1,9 @@
 {
-  "title": "OpenEEW",
-  "bannerMission": "A low cost, open source, IoT-based earthquake early warning system.",
-  "informationTitle": "What is OpenEEW?",
-  "informationFirstPara": "We are building technology to detect the earliest signs of an earthquake and issue alerts. The technology could provide people critical time to seek cover or exit buildings before shaking arrives.",
-  "informationSecPara": " OpenEEW is a growing project. We need volunteers to install sensors, start networks in seismically vulnerable regions, and contribute to the next generation of OpenEEW technology.",
+  "title": "TheHelpNetwork",
+  "bannerMission": "An initiative to bring about a transparent way for people to collaborate to distribute goods and materials efficiently during everyday and critical situations.",
+  "informationTitle": "What is TheHelpNetwork?",
+  "informationFirstPara": "We facilitates collaboration among people in managing the supply and demand of goods to be distributed to the needy. The disconnect between supply and demand can lead to an over-or under-supply of goods and materials.",
+  "informationSecPara": " During critical times, there is often no trusted system for getting correct information on supply and demand requirements for goods — a common problem faced by people. We need volunteers to contribute to the next generation of collaboration.",
   "whatopeneewButtonPrimary": "Get Involved",
   "whatopeneewButton2": "Join Us On Slack",
   "whatopeneewButton3": "Browse Code",
@@ -16,10 +16,10 @@
   "networkTitle": "Global network of seismically-active regions",
   "networkDescription": "Our system is most valuable in densely-populated areas where large earthquakes are likely to occur.",
   "networkButtonText": "Start a network",
-  "footer": "OpenEEW is a ",
-  "footerLink": "Call for Code® with The Linux Foundation project",
+  "footer": "TheHelpNetwork is an ",
+  "footerLink": "Open Initiative project",
   "footer2":  " founded by ",
-  "footerLink2": " Grillo",
-  "copyright": "Copyright © 2020-2021 OpenEEW Project a Series of LF Projects, LLC.",
-  "copyrightInfo": "For trademark usage guidelines, privacy and cookie policies, and other applicable policies, as well as terms and conditions governing this web site, please see www.lfprojects.org."
+  "footerLink2": "Xtressials.",
+  "copyright": "Copyright © 2020-2021 Xtressials.",
+  "copyrightInfo": "For trademark usage guidelines, privacy and cookie policies, and other applicable policies, as well as terms and conditions governing this web site, please see www.xtressials.tech."
 }

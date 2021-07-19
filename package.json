@@ -1,8 +1,8 @@
 {
-  "name": "openeew.com",
+  "name": "thehelpnetwork.org",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://openeew.github.io",
+  "homepage": "https://thn.xtressials.tech",
   "dependencies": {
     "@carbon/grid": "^10.27.0",
     "@carbon/icons-react": "^10.32.0",

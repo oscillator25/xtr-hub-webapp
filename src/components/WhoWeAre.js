@@ -19,7 +19,7 @@ const WhoWeAre = () => {
                 kind="primary"
                 onClick={() => {
                   window.open(
-                    'https://github.com/openeew/openeew/wiki/Getting-Involved',
+                    '#', //get involved
                     '_blank',
                     'noopener'
                   );
@@ -31,7 +31,7 @@ const WhoWeAre = () => {
                 kind="tertiary"
                 onClick={() => {
                   window.open(
-                    'https://openeew.slack.com/join/shared_invite/zt-cibhc0za-XKReMPobi2DsrPusORJZVQ#/shared-invite/email',
+                    '#', //slack
                     '_blank',
                     'noopener'
                   );
@@ -43,7 +43,7 @@ const WhoWeAre = () => {
                 kind="tertiary"
                 onClick={() => {
                   window.open(
-                    'https://github.com/openeew',
+                    'https://github.com/xtressials',
                     '_blank',
                     'noopener'
                   );

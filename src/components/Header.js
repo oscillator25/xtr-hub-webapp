@@ -16,14 +16,14 @@ const _Header = () => {
   const { t } = useContext(AppContext);
 
   return (
-    <Header aria-label="OpenEEW" className="header--container">
+    <Header aria-label="TheHelpNetwork" className="header--container">
       <HeaderName href="/" prefix="">
         {t('title')}
       </HeaderName>
 
       <HeaderNavigation aria-label="Launch Dashboard">
-        <HeaderMenuItem target="_blank" href="https://dashboard.openeew.com">
-          Launch Dashboard
+        <HeaderMenuItem target="_blank" href="https://help-portal.xtressials.tech">
+          Launch Help Portal
         </HeaderMenuItem>
       </HeaderNavigation>
 
@@ -31,7 +31,7 @@ const _Header = () => {
         <HeaderGlobalAction
           aria-label="GitHub"
           target="_blank"
-          href="https://github.com/openeew"
+          href="https://github.com/xtressials"
           tooltipAlignment="end"
         >
           <LogoGitHub20 />
@@ -39,7 +39,7 @@ const _Header = () => {
         <HeaderGlobalAction
           aria-label="Slack"
           target="_blank"
-          href="https://openeew.slack.com/join/shared_invite/zt-cibhc0za-XKReMPobi2DsrPusORJZVQ#/shared-invite/email"
+          href="#"
           tooltipAlignment="end"
         >
           <LogoSlack20 />
